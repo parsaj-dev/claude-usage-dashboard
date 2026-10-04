@@ -218,9 +218,9 @@ sessions** is:
 ```
 CONTEXT
 usage-tracker  ████████████████████████████████████████░░░░░░░ 170k/200k
-  85% · gitbutler/workspace · just now
+  85% · main · just now
 Yekta 6dd7     ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 83k/200k
-  42% · gitbutler/workspace · 2m ago
+  42% · main · 2m ago
 ```
 
 This reads Claude Code's own transcripts under `~/.claude/projects/` (honoring
